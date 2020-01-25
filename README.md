@@ -13,14 +13,26 @@ NLTK, Tweepy, Textblob, Wordcloud, Scikit-Learn libraries were extensively used.
 Steps to be performed:
 
 1.) Creating a twitter developer account and creating a twitter app to get required tokens and keys
+
 2.) Authentication of credentials
+
 3.) Fetching tweets from twitter
+
 4.) Fetching important attributes from tweets
+
 5.) Saving the attributes in the dataframe
+
 6.) Dataframe of Tweets' attributes
+
 7.) Removing twitter handles
+
 8.) Removing punctuation number and special characters
+
 9.) Tokenizing and removing stop words
+
 10.) Re-join and apply lemmatization
+
 11.) Checking sentiment using TextBlob
+
 12.) Analysing sentiment using NaiveBayes Analyzer
+
