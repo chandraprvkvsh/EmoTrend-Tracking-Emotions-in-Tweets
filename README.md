@@ -4,7 +4,7 @@ Objective of this project was to train a classifier which can take a tweets as i
 
 This project involved fetching live tweets of a user and then performing various analysis, cleaning that data and then training the classifier which can then be used to analyze the sentiment of those tweets or in general any text data.
 
-NLTK, Tweepy, Textblob, Wordcloud, Scikit-Learn libraries were extensively used.
+NLTK, Tweepy, Textblob, WordCloud, Scikit-Learn libraries were extensively used.
 
 
 # Details about the project
